@@ -1,0 +1,17 @@
+.container{
+    background-color: #95c1f0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin:10px 10px;
+    
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 100px;
+  }
+
