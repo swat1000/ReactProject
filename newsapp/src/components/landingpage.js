@@ -29,8 +29,7 @@ export default function LandingPage() {
                                 <h5 className="card-title">{element.title}</h5>
                                 <p className="card-text">{element.description}</p>
                             </div>
-                            <ul className="list-group list-group-flush">
-                                <li className="list-group-item">Rating: {element.rating}</li>
+                            <ul className="list-group ">
                                 <li className="list-group-item">Price: {element.price}</li>
                             </ul>
                             <div className="card-body">
