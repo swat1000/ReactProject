@@ -34,7 +34,7 @@ export default function LandingPage() {
                             </ul>
                             <div className="card-body">
                             <button type="button" class="btn btn-primary mx-2">Add to Cart</button>
-                            <button type="button" class="btn btn-primary">View Product</button>
+                            <button type="button" class="btn btn-primary" href="" >View Product</button>
                             </div>
                         </div>
                     </div>
